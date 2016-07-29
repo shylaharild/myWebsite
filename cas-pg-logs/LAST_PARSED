@@ -1,0 +1,1 @@
+2016-07-18 23:59:59	711034347	2016-07-18 23:59:59 UTC [31240]: [6-1] user=test_cas,db=test_cas LOG:  disconnection: session time: 0:00:00.006 user=test_cas database=test_cas host=10.12.0.71 port=57254
