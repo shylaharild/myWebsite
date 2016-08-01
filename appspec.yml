@@ -1,13 +1,13 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /*
     destination: /var/www/html/
 permissions:
   - object: /var/www/html
     pattern: "**"
-    owner: apache
-    group: apache
+    owner: root 
+    group: root
     mode: 7
     type:
       - file
